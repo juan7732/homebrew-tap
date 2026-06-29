@@ -1,0 +1,2 @@
+# Placeholder so the Formula/ directory exists in a fresh clone.
+# GoReleaser writes Formula/ergo.rb here on each ergo release; do not edit by hand.
